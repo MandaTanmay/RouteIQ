@@ -3,6 +3,7 @@ Meta-Learning AI System - FastAPI Application
 Production-grade AI orchestration layer that decides how to answer queries.
 NOT a chatbot - it's an intelligent routing system.
 """
+import utils.session
 import nltk
 
 try:
