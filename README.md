@@ -1,4 +1,4 @@
-                          # 🧠 Meta-Learning AI System
+                          # 🧠 RouteIQ  -  Intelligent Semantic Query Routing Framework for Efficient Multi-Engine AI Systems
 
 A **production-grade AI orchestration layer** that intelligently routes queries to appropriate execution engines. This is **NOT a chatbot** - it's a sophisticated system that learns **which engine should answer a query**, not facts themselves.
 
